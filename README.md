@@ -1,1 +1,1 @@
-# Automata
+# Automata Course
